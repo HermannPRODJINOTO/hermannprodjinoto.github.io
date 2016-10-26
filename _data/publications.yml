@@ -10,7 +10,7 @@
    year: 2017
    pages: 
    url: 
-   image: \img\Papier_modeling.tif
+   image: \img\Papier_modeling.jpg
    tags:
    - Modelling
    - Yield
@@ -43,7 +43,7 @@
    year: 2016
    pages: 
    url: 
-   image: \img\Fig1.png
+   image: \img\Historic_lines.jpg
    tags:
    - Transpiration
    - VPD
@@ -61,7 +61,7 @@
    year: 2016
    pages: 
    url: http://onlinelibrary.wiley.com/doi/10.1111/ppl.12474/abstract
-   image: \img\Historic_lines.jpg
+   image: \img\Claverie.jpg
    tags:
    - Transpiration
    - VPD
@@ -93,7 +93,7 @@
    year: 2014
    pages: 963-971
    url: http://www.publish.csiro.au/fp/FP14067
-   image: \img\Papier_4.tif
+   image: \img\Papier_4.jpg
    tags:
    - Night-time TR
    - VPD
@@ -109,7 +109,7 @@
    year: 2014
    pages: 257-269
    url: http://www.publish.csiro.au/fp/FP13211
-   image: \img\Papier_3.tif
+   image: \img\Papier_3.jpg
    tags:
    - Transpiration
    - VPD
@@ -127,7 +127,7 @@
    year: 2014
    pages: 708-718
    url: http://www.publish.csiro.au/fp/FP13028 
-   image: \img\Papier_2.tif
+   image: \img\Papier_2.jpg
    tags:
    - Transpiration
    - VPD
