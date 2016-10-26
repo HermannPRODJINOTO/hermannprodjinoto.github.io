@@ -31,6 +31,35 @@ header {
   top:0;
   left:0;
   right:0;
+  padding:5px 0;
+  background-color:#e8eaed;
+}
+  header h1 {
+    margin:0;
+    line-height:20px;
+    font-weight:bold;
+    padding:10px 0;
+    font-size:24px;
+  }
+  header h2 {
+    margin:0;
+    line-height:24px;
+    font-size:18px;
+    color: #4c4e51;
+  }
+
+footer {
+  padding:18px 0 40px;
+  line-height:20px;
+  font-size:14px;
+}
+/*
+header {
+  position:fixed;
+  z-index:100;
+  top:0;
+  left:0;
+  right:0;
   padding:10px 0;
   padding-bottom:5px;
   /*background-color: #F2F2F2;¨*/
@@ -63,6 +92,8 @@ footer {
   line-height:20px;
   font-size:14px;
 }
+*/
+
 .img-circle{
   border:2px solid #fff;/**#4789CF;*/
 }
@@ -104,14 +135,14 @@ section {
  *******************/
 .intro-screen,
 .intro-screen header {
-  background-color: #fff;  /* #2D4972; #4789CF;*/
-  color:#000;
+  background-color: ##3141ce;  /* #2D4972; #4789CF;*/
+  color:#fff;
   border-bottom: 3px solid white;
 }
   .intro-screen h1,
   .intro-screen h2,
   .intro-screen h3 {
-    color:#000;
+    color:#fff;
   }
   .intro-screen a,
   .intro-screen a:hover {
