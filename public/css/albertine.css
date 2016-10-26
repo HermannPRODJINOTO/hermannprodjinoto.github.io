@@ -62,9 +62,9 @@ header {
   right:0;
   padding:10px 0;
   padding-bottom:5px;
-  /*background-color: #F2F2F2;¨*/
+ 
   border-bottom: 3px solid #3A7CC2;
-  background-color: #4789CF;  /* #2D4972; #5294f7;*/
+  background-color: #4789CF;  
   color: #fff;
 }
 
@@ -77,7 +77,7 @@ header a:hover{
     line-height:24px;
     font-weight:bold;
     font-size:1.5em;
-    /*color:#4789CF;*/
+   
     color:#fff;
     
   }
@@ -135,7 +135,23 @@ section {
  *******************/
 .intro-screen,
 .intro-screen header {
-  background-color: ##3141ce;  /* #2D4972; #4789CF;*/
+  background-color:#F4F5F6;
+  color:#4F6687;
+}
+  .intro-screen h1,
+  .intro-screen h2,
+  .intro-screen h3 {
+    color:#4F6687;
+  }
+  .intro-screen a,
+  .intro-screen a:hover {
+    color:#2667A8;
+    font-weight:bold;
+  }
+ /*
+.intro-screen,
+.intro-screen header {
+  background-color: ##3141ce;  
   color:#fff;
   border-bottom: 3px solid white;
 }
@@ -146,9 +162,9 @@ section {
   }
   .intro-screen a,
   .intro-screen a:hover {
-    color: #F2C36F; /*#FBCA00;*/
+    color: #F2C36F; 
   }
-  
+   */
   .intro-screen .img-circle{
   border:2px solid white;
 }
