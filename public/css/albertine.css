@@ -40,12 +40,13 @@ header {
     font-weight:bold;
     padding:10px 0;
     font-size:24px;
+    color: #01388c; 
   }
   header h2 {
     margin:0;
     line-height:24px;
-    font-size:18px;
-    color: #4c4e51;  
+    font-size:18px;                          
+    color: #01388c;  
   }
 
 footer {
@@ -73,7 +74,7 @@ header a:hover{
   font-weight: bold;
 }
   header h1 {
-    margin:0;
+    margin:0;                            
     line-height:24px;
     font-weight:bold;
     font-size:1.5em;
@@ -95,7 +96,7 @@ footer {
 */
 
 .img-circle{
-  border:2px solid #fff;/**#4789CF;*/
+  border:2px solid #01388c;/**#4789CF;*/
 }
 /*******************
  * SECTION
@@ -107,7 +108,7 @@ section {
     padding:0 0 8px;
     line-height:40px;
     font-weight:bold;
-    font-size:32px;
+    font-size:32px;                  
     color:#ff5722;
   }
   section h4{
@@ -141,7 +142,7 @@ section {
   .intro-screen h1,
   .intro-screen h2,
   .intro-screen h3 {
-    color:#01388c;   /*#4F6687*/
+    color:#2667A8;   /*#4F6687*/  
   }                                               
   .intro-screen a,
   .intro-screen a:hover {
