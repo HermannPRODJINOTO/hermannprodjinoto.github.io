@@ -45,7 +45,7 @@ header {
     margin:0;
     line-height:24px;
     font-size:18px;
-    color: #4c4e51;
+    color: #4c4e51;  
   }
 
 footer {
@@ -141,8 +141,8 @@ section {
   .intro-screen h1,
   .intro-screen h2,
   .intro-screen h3 {
-    color:#4F6687;
-  }
+    color:#01388c;   /*#4F6687*/
+  }                                               
   .intro-screen a,
   .intro-screen a:hover {
     color:#2667A8;
