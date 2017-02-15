@@ -1,14 +1,14 @@
 -  type: summary
    hindex: '4'
-   citations: '48'
+   citations: '69'
    update: '2016-10-20'
 -  type: journal
-   title: Using a mechanistic simulation model to compare the suitability of rain-fed wheat and barley yields across the Middle-East
-   authors: Schoppach R, Soltani A, Sinclair TR, Sadok W
-   journal: 
-   volume: 
+   title: Yield comparison of simulated rainfed wheat and barley across Middle-East.    
+authors: Schoppach R, Soltani A, Sinclair TR, Sadok W
+   journal: Agricultural Systems 
+   volume: 153
    year: 2017
-   pages: 
+   pages:101–108
    url: 
    image: \img\Modeling.jpg
    tags:
@@ -17,15 +17,16 @@
    - Phenology
    citations: '0'
    review: no
-   preprint: yes
+   preprint: no
+firstauthor: yes
 -  type: journal
-   title: Pot binding may be common occurrence confounding plant phenotype. Theoretical derivation and experimental observations
+   title: Pot binding as a variable confounding plant phenotype: theoretical derivation and experimental observations
    authors: Sinclair TR, Manandhar A, Shekoofa A, Rosas-Anderson P, Bagherzadi L, Schoppach R, Sadok W, Rufty T
    journal: Planta
    volume:  
-   year: 2017
+   year: 2016
    pages: 
-   url: 
+   url: doi:10.1007/s00425-016-2641-0
    image: \img\Pot-binding.png
    tags:
    - Transpiration
@@ -52,7 +53,7 @@
    review: no
    firstauthor: yes
    preprint: yes
-
+firstauthor: yes
 -  type: journal
    title: Nighttime evaporative demand induces plasticity in leaf and root hydraulic traits
    authors: Claverie E, Schoppach R, Sadok W
@@ -82,7 +83,7 @@
    - Transpiration
    - VPD
    - QTL
-   citations: '1'
+   citations: '2'
    review: no
    firstauthor: yes
 -  type: journal
@@ -98,7 +99,7 @@
    - Night-time TR
    - VPD
    - Genetic variability
-   citations: '10'
+   citations: '12'
    review: no
    firstauthor: yes
 -  type: journal
@@ -115,7 +116,7 @@
    - VPD
    - Root anatomy
    - AQP
-   citations: '15'
+   citations: '18'
    review: no
    firstauthor: yes
 
@@ -132,7 +133,7 @@
    - Transpiration
    - VPD
    - Physiology
-   citations: '7'
+   citations: '8'
    review: no
    firstauthor: yes
 
@@ -149,7 +150,7 @@
    - Transpiration
    - VPD
    - Physiology
-   citations: '22'
+   citations: '29'
    review: no
    firstauthor: yes
 
