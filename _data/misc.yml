@@ -9,8 +9,9 @@
   name: Research advisor
   description: >
     - 2 master theses
+
 -
-name: Languages
-description: >
+  name: Languages
+  description: >
 - French: Native proficiency
 - English: Professional working proficiency 
