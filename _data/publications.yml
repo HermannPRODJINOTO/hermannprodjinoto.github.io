@@ -5,11 +5,11 @@ update: '2017-02-15'
 - type: journal
 title: Yield comparison of simulated rainfed wheat and barley across Middle-East
 authors: Schoppach R, Soltani A, Sinclair TR, Sadok W
-journal: Agricultural Systems 
+journal: Agricultural Systems
 volume: 153
 year: 2017
 pages: 101-108
-url: 
+url:
 image: \img\Modeling.jpg
 tags:
 - Modelling
@@ -18,150 +18,146 @@ tags:
 citations: '0'
 review: no
 firstauthor: yes
--  type: journal
-   title: Pot binding as a variable confounding plant phenotype. Theoretical derivation and experimental observations
-   authors: Sinclair TR, Manandhar A, Shekoofa A, Rosas-Anderson P, Bagherzadi L, Schoppach R, Sadok W, Rufty T
-   journal: Planta
-   volume:  
-   year: 2016
-   pages: 
-   url: 
-   image: \img\Pot-binding.png
-   tags:
-   - Transpiration
-   - VPD
-   - Hydraulics
-   citations: '0'
-   review: no
-   preprint: yes
--  type: journal
-   title: Transpiration sensitivity to evaporative demand across 120 years of breeding of Australian wheat cultivars
-   authors: Schoppach R, Fleury D,  Sinclair T,  Sadok W
-   journal: Journal of Agronomy and Crop science 
-   volume:  
-   year: 2016
-   pages: 
-   url: 
-   image: \img\Historic_lines.jpg
-   tags:
-   - Transpiration
-   - VPD
-   - Genetic varability
-   citations: '0'
-   review: no
-   firstauthor: yes
-   preprint: no
+- type: journal
+title: Pot binding as a variable confounding plant phenotype. Theoretical derivation and experimental observations
+authors: Sinclair TR, Manandhar A, Shekoofa A, Rosas-Anderson P, Bagherzadi L, Schoppach R, Sadok W, Rufty T
+journal: Planta
+volume:
+year: 2016
+pages:
+url:
+image: \img\Pot-binding.png
+tags:
+- Transpiration
+- VPD
+- Hydraulics
+citations: '0'
+review: no
+preprint: yes
+- type: journal
+title: Transpiration sensitivity to evaporative demand across 120 years of breeding of Australian wheat cultivars
+authors: Schoppach R, Fleury D,  Sinclair T,  Sadok W
+journal: Journal of Agronomy and Crop science
+volume:
+year: 2016
+pages:
+url:
+image: \img\Historic_lines.jpg
+tags:
+- Transpiration
+- VPD
+- Genetic varability
+citations: '0'
+review: no
 firstauthor: yes
--  type: journal
-   title: Nighttime evaporative demand induces plasticity in leaf and root hydraulic traits
-   authors: Claverie E, Schoppach R, Sadok W
-   journal: Physiologia plantarum
-   volume: 67 
-   year: 2016
-   pages: 
-   url: http://onlinelibrary.wiley.com/doi/10.1111/ppl.12474/abstract
-   image: \img\Claverie.jpg
-   tags:
-   - Transpiration
-   - VPD
-   - Leaf/Root hydraulics
-   citations: '0'
-   review: no
-   firstauthor: yes
--  type: journal
-   title: High resolution mapping of traits related to whole-plant transpiration under increasing evaporative demand in wheat
-   authors: Schoppach R, Taylor JD, Majerus E, Claverie E, Baumann U, Suchecki R, Fleury D, Sadok W
-   journal: Functional Plant Biology 
-   volume: 67 
-   year: 2016
-   pages: 2847-2860
-   url: http://jxb.oxfordjournals.org/content/67/9/2847.short
-   image: \img\Papier_5.png
-   tags:
-   - Transpiration
-   - VPD
-   - QTL
-   citations: '2'
-   review: no
-   firstauthor: yes
--  type: journal
-   title: Genotype-dependent influence of night-time vapour pressure deficit on night-time transpiration and daytime gas exchange in wheat
-   authors: Schoppach R, Claverie E, Sadok W
-   journal: Functional Plant Biology 
-   volume: 41 
-   year: 2014
-   pages: 963-971
-   url: http://www.publish.csiro.au/fp/FP14067
-   image: \img\Papier_4.jpg
-   tags:
-   - Night-time TR
-   - VPD
-   - Genetic variability
-   citations: '12'
-   review: no
-   firstauthor: yes
--  type: journal
-   title: Conservative water use under high evaporative demand associated with smaller root metaxylem and limited trans-membrane water transport in wheat 
-   authors: Schoppach R, Wauthelet D,  Jeanguenin L, Sadok W
-   journal: Functional Plant Biology 
-   volume: 41
-   year: 2014
-   pages: 257-269
-   url: http://www.publish.csiro.au/fp/FP13211
-   image: \img\Papier_3.jpg
-   tags:
-   - Transpiration
-   - VPD
-   - Root anatomy
-   - AQP
-   citations: '18'
-   review: no
-   firstauthor: yes
-
--  type: journal
-   title: Transpiration sensitivities to evaporative demand and leaf areas vary with night and day warming regimes among wheat genotypes
-   authors: Schoppach R,  Sadok W
-   journal: Functional Plant Biology
-   volume: 40
-   year: 2014
-   pages: 708-718
-   url: http://www.publish.csiro.au/fp/FP13028 
-   image: \img\Papier_2.jpg
-   tags:
-   - Transpiration
-   - VPD
-   - Physiology
-   citations: '8'
-   review: no
-   firstauthor: yes
-
--  type: journal
-   title: Differential sensitivities of transpiration to evaporative demand and soil water deficit among wheat elite cultivars indicate different strategies for drought tolerance.
-   authors: Schoppach R,  Sadok W
-   journal: Environmental and Experimental 
-   volume: 84
-   year: 2012
-   pages: 1-10
-   url: http://www.sciencedirect.com/science/article/pii/S0098847212001128
-   image: \img\Fig1.png
-   tags:
-   - Transpiration
-   - VPD
-   - Physiology
-   citations: '29'
-   review: no
-   firstauthor: yes
--  type: thesis
-   title: Physiological and genetic bases of water-saving traits in wheat
-   authors: Schoppach R
+preprint: no
+firstauthor: yes
+- type: journal
+title: Nighttime evaporative demand induces plasticity in leaf and root hydraulic traits
+authors: Claverie E, Schoppach R, Sadok W
+journal: Physiologia plantarum
+volume: 67
+year: 2016
+pages:
+url: http://onlinelibrary.wiley.com/doi/10.1111/ppl.12474/abstract
+image: \img\Claverie.jpg
+tags:
+- Transpiration
+- VPD
+- Leaf/Root hydraulics
+citations: '0'
+review: no
+firstauthor: yes
+- type: journal
+title: High resolution mapping of traits related to whole-plant transpiration under increasing evaporative demand in wheat
+authors: Schoppach R, Taylor JD, Majerus E, Claverie E, Baumann U, Suchecki R, Fleury D, Sadok W
+journal: Functional Plant Biology
+volume: 67
+year: 2016
+pages: 2847-2860
+url: http://jxb.oxfordjournals.org/content/67/9/2847.short
+image: \img\Papier_5.png
+tags:
+- Transpiration
+- VPD
+- QTL
+citations: '2'
+review: no
+firstauthor: yes
+- type: journal
+title: Genotype-dependent influence of night-time vapour pressure deficit on night-time transpiration and daytime gas exchange in wheat
+authors: Schoppach R, Claverie E, Sadok W
+journal: Functional Plant Biology
+volume: 41
+year: 2014
+pages: 963-971
+url: http://www.publish.csiro.au/fp/FP14067
+image: \img\Papier_4.jpg
+tags:
+- Night-time TR
+- VPD
+- Genetic variability
+citations: '12'
+review: no
+firstauthor: yes
+- type: journal
+title: Conservative water use under high evaporative demand associated with smaller root metaxylem and limited trans-membrane water transport in wheat
+authors: Schoppach R, Wauthelet D,  Jeanguenin L, Sadok W
+journal: Functional Plant Biology
+volume: 41
+year: 2014
+pages: 257-269
+url: http://www.publish.csiro.au/fp/FP13211
+image: \img\Papier_3.jpg
+tags:
+ - Transpiration
+- VPD
+- Root anatomy
+- AQP
+citations: '18'
+review: no
+firstauthor: yes
+- type: journal
+title: Transpiration sensitivities to evaporative demand and leaf areas vary with night and day warming regimes among wheat genotypes
+authors: Schoppach R,  Sadok W
+journal: Functional Plant Biology
+volume: 40
+year: 2014
+pages: 708-718
+url: http://www.publish.csiro.au/fp/FP13028
+image: \img\Papier_2.jpg
+tags:
+- Transpiration
+- VPD
+- Physiology
+citations: '8'
+review: no
+firstauthor: yes
+- type: journal
+title: Differential sensitivities of transpiration to evaporative demand and soil water deficit among wheat elite cultivars indicate different strategies for drought tolerance.
+authors: Schoppach R,  Sadok W
+journal: Environmental and Experimental
+volume: 84
+year: 2012
+pages: 1-10
+url: http://www.sciencedirect.com/science/article/pii/S0098847212001128
+image: \img\Fig1.png
+tags:
+- Transpiration
+- VPD
+- Physiology
+citations: '29'
+review: no
+firstauthor: yes
+- type: thesis
+title: Physiological and genetic bases of water-saving traits in wheat
+authors: Schoppach R
 journal: In order to satisfy increasing wheat demands, scaling up wheat production will require boosting yield in suboptimal, drought-prone areas. This increase will be particularly challenging since in several major agricultural regions of the world, yield stagnation has been observed during last decades. Moreover, warmer climates are already contributing to significant decreases in worldwide wheat yields, highlighting the need for more adapted germplasm. Under rain-fed environments, one promising option is the identification of traits allowing for soil water conservation. The aim of this thesis was the identification of the physiological and genetic bases of these water-saving traits in wheat. We have shown that genotypes with conservative water use in their response to high atmospheric demand were also conservative in response to soil drying invoking an adapted sensitivity of transpiration rate (TR) to both sources of drought. This thesis revealed a large genetic variability in the responses of TR to VPD with a significant effect of day and night atmospheric conditions during growth affecting compensation mechanisms between leaf areas and TR sensitivities to VPD. Nighttime TR was shown to be highly significant in wheat and strongly correlated to daytime TR process, revealing that tolerance strategies such as conservative water use do also exists under night-time environments. The exceptional drought tolerance of the conservative breeding line RAC875 was linked to a root-based hydraulic restriction that requires potentially heritable functional (AQP-based processes) and anatomical features. Finally, we highlighted a total of 68 mostly trait-specific QTL. Six QTL were identified for the TR response to VPD, with one QTL individually explaining 25.4% of the genetic variance. This QTL harbored several genes previously reported to be involved in drought tolerance and plant hydraulics.
-   image: \img\Fig1.png
-   tags:
-   - Transpiration
-   - VPD
-   - Physiology
-   - Genetic
-   - Wheat
-   - Drought
-   
- 
+image: \img\Fig1.png
+tags:
+- Transpiration
+- VPD
+- Physiology
+- Genetic
+- Wheat
+- Drought
