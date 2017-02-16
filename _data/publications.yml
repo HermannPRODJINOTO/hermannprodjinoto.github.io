@@ -1,23 +1,23 @@
 - type: summary
-   hindex: '4'
-   citations: '69'
-   update: '2017-02-15'
+hindex: '4'
+citations: '69'
+update: '2017-02-15'
 - type: journal
-   title: Yield comparison of simulated rainfed wheat and barley across Middle-East
-   authors: Schoppach R, Soltani A, Sinclair TR, Sadok W
-   journal: Agricultural Systems 
-   volume: 153
-   year: 2017
-   pages: 101-108
-   url: 
-   image: \img\Modeling.jpg
-   tags:
-   - Modelling
-   - Yield
-   - Phenology
-   citations: '0'
-   review: no
-   firstauthor: yes
+title: Yield comparison of simulated rainfed wheat and barley across Middle-East
+authors: Schoppach R, Soltani A, Sinclair TR, Sadok W
+journal: Agricultural Systems 
+volume: 153
+year: 2017
+pages: 101-108
+url: 
+image: \img\Modeling.jpg
+tags:
+- Modelling
+- Yield
+- Phenology
+citations: '0'
+review: no
+firstauthor: yes
 -  type: journal
    title: Pot binding as a variable confounding plant phenotype. Theoretical derivation and experimental observations
    authors: Sinclair TR, Manandhar A, Shekoofa A, Rosas-Anderson P, Bagherzadi L, Schoppach R, Sadok W, Rufty T
