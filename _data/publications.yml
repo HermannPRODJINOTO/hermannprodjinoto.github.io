@@ -1,20 +1,20 @@
  - type: summary
-   hindex: '4'
-   citations: '69'
-   update: '2017-02-15'
-  - type: journal
-   title: Yield comparison of simulated rainfed wheat and barley across Middle-East 
-   authors: Schoppach R, Soltani A, Sinclair TR, Sadok W
-   journal: Agricultural Systems
-   volume: 153
-   year: 2017
-   pages: 101-108
-   url:
-   image: \img\Modeling.jpg
-   tags:
-   - Modelling
-   - Yield
-   - Phenology
-   citations: '0'
-   review: no
-   firstauthor: yes
+hindex: '4'
+citations: '69'
+update: '2017-02-15'
+ - type: journal
+title: Yield comparison of simulated rainfed wheat and barley across Middle-East 
+authors: Schoppach R, Soltani A, Sinclair TR, Sadok W
+journal: Agricultural Systems
+volume: 153
+year: 2017
+pages: 101-108
+url:
+image: \img\Modeling.jpg
+tags:
+- Modelling
+- Yield
+- Phenology
+citations: '0'
+review: no
+firstauthor: yes
