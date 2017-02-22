@@ -1,18 +1,18 @@
 
--
+ -
   name: Ad hoc referee
   description: >
-Journal of Agronomy and Plant science 
-Journal of Experimental Botany
-Plant Science
--
+ - Journal of Agronomy and Plant science 
+ - Journal of Experimental Botany
+ - Plant Science
+ -
   name: Research advisor
   description: >
     - 2 master theses
--
+ -
   name: Languages
   description: >
-French: Native proficiency
-English: Professional working proficiency 
+ - French: Native proficiency
+ - English: Professional working proficiency 
 
 
