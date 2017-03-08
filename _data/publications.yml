@@ -9,9 +9,9 @@ journal: Agricultural Systems
 volume: 153
 year: 2017
 pages: 101-108
-url:
+url: http://www.sciencedirect.com/science/article/pii/S0308521X16306825
 image: \img\Modeling.jpg
-tags:
+tags: 
 - Modelling
 - Yield
 - Phenology
@@ -24,8 +24,8 @@ authors: Sinclair TR, Manandhar A, Shekoofa A, Rosas-Anderson P, Bagherzadi L, S
 journal: Planta
 volume:
 year: 2016
-pages:
-url:
+pages: 1-7
+url: https://link.springer.com/article/10.1007/s00425-016-2641-0
 image: \img\Pot-binding.png
 tags:
 - Transpiration
@@ -38,12 +38,12 @@ preprint: yes
 title: Transpiration sensitivity to evaporative demand across 120 years of breeding of Australian wheat cultivars
 authors: Schoppach R, Fleury D,  Sinclair T,  Sadok W
 journal: Journal of Agronomy and Crop science
-volume:
+volume: 
 year: 2016
-pages:
-url:
+pages: 
+url: http://onlinelibrary.wiley.com/doi/10.1111/jac.12193/full
 image: \img\Historic_lines.jpg
-tags:
+tags: 
 - Transpiration
 - VPD
 - Genetic varability
@@ -61,7 +61,7 @@ year: 2016
 pages:
 url: http://onlinelibrary.wiley.com/doi/10.1111/ppl.12474/abstract
 image: \img\Claverie.jpg
-tags:
+tags: 
 - Transpiration
 - VPD
 - Leaf/Root hydraulics
