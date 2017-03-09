@@ -1,4 +1,4 @@
--  type: summary
+ - type: summary
    hindex: '4'
    citations: '69'
    update: '2017-02-15'
@@ -33,7 +33,7 @@
    - Hydraulics
    citations: '0'
    review: no
-   preprint: ne
+   preprint: no
  - type: journal
    title: Transpiration sensitivity to evaporative demand across 120 years of breeding of Australian wheat cultivars
    authors: Schoppach R, Fleury D,  Sinclair T,  Sadok W
