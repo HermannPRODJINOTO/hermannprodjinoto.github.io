@@ -11,7 +11,7 @@ year: 2017
 pages: 101-108
 url: http://www.sciencedirect.com/science/article/pii/S0308521X16306825
 image: \img\Modeling.jpg
-tags: 
+tags:
 - Modelling
 - Yield
 - Phenology
@@ -38,12 +38,12 @@ preprint: yes
 title: Transpiration sensitivity to evaporative demand across 120 years of breeding of Australian wheat cultivars
 authors: Schoppach R, Fleury D,  Sinclair T,  Sadok W
 journal: Journal of Agronomy and Crop science
-volume: 
+volume:
 year: 2016
-pages: 
+pages:
 url: http://onlinelibrary.wiley.com/doi/10.1111/jac.12193/full
 image: \img\Historic_lines.jpg
-tags: 
+tags:
 - Transpiration
 - VPD
 - Genetic varability
@@ -61,7 +61,7 @@ year: 2016
 pages:
 url: http://onlinelibrary.wiley.com/doi/10.1111/ppl.12474/abstract
 image: \img\Claverie.jpg
-tags: 
+tags:
 - Transpiration
 - VPD
 - Leaf/Root hydraulics
@@ -152,7 +152,7 @@ firstauthor: yes
  - type: thesis
 title: Physiological and genetic bases of water-saving traits in wheat
 authors: Schoppach R
-book: Université catholique de Louvain
+book: UniversitÃ© catholique de Louvain
 image: \img\Fig1.png
 tags:
 - Transpiration
